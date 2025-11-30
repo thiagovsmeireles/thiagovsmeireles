@@ -42,7 +42,7 @@ I'm a **Software Engineer** focused on building robust solutions and securing di
 ### 📂 My Projects
 
 #### 🌐 Web Development
-* **[[Suzi Artesanatos](https://github.com/thiagovsmeireles/SuziArtesanatos)**: E-commerce platform for handicrafts deployed on Render. **[🌐 Live Demo](https://suziartesanatos.onrender.com/)**
+* **[Suzi Artesanatos](https://github.com/thiagovsmeireles/SuziArtesanatos)**: E-commerce platform for handicrafts deployed on Render. **[🌐 Live Demo](https://suziartesanatos.onrender.com/)**
 
 #### 🔒 Cybersecurity
 * *Projects and tools coming soon...* 🚧
