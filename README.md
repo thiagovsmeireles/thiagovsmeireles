@@ -49,7 +49,7 @@ I'm a **Software Engineer** focused on building robust solutions and securing di
 
 ---
 <div align="center">
-  <a href="linkedin.com/in/thiago-vinícius-54981a270" target="_blank">
+  <a href="https://linkedin.com/in/thiago-vinícius-54981a270" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a> 
   <a href="mailto:souza.thiago@academico.ifg.edu.br">
