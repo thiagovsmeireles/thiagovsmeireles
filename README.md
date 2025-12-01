@@ -22,6 +22,8 @@ I'm a **Software Engineer** focused on building robust solutions and securing di
 #### 🌐 Web Development
 * **[Suzi Artesanatos](https://github.com/thiagovsmeireles/SuziArtesanatos)**: E-commerce platform for handicrafts deployed on Render. **[🌐 Live Demo](https://suziartesanatos.onrender.com/)**
 
+* **[GreenMind](https://github.com/thiagovsmeireles/GreenMind)**: Landing page institucional para Software House (**GreenMindSys**). Projeto **estático** e responsivo (HTML, CSS, JS, React UMD), focado em apresentação de serviços e portfólio. **[🌐 Live Demo](https://greenmind-45qk.onrender.com/)**
+
 #### 🔒 Cybersecurity
 * *Projects and tools coming soon...* 🚧
 
