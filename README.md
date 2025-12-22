@@ -31,10 +31,6 @@ I'm a **Software Engineer** focused on building robust solutions and securing di
   Web application for managing and showcasing smartphone repair services.  
   **[🌐 Live Demo](https://mastercellphone.onrender.com)**
 
-* **[Suzi Artesanatos](https://github.com/thiagovsmeireles/SuziArtesanatos)**  
-  E-commerce platform for handicrafts deployed on Render.  
-  **[🌐 Live Demo](https://suziartesanatos.onrender.com/)**
-
 #### 🔒 Cybersecurity
 
 * *Projects and tools coming soon...* 🚧
