@@ -2,7 +2,7 @@
 
 I'm a **Software Engineer** focused on building robust solutions and securing digital infrastructures.
 
-- 🎓 **Education:** Bachelor of Software Engineering  
+- 🎓 **Education:** Bachelor's in Software Engineering · Postgraduate in Information Security  
 - 💻 **Focus:** Web Development & Cybersecurity  
 - 🌍 **Location:** Brazil  
 
