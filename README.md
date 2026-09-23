@@ -22,6 +22,12 @@ I'm a **Software Engineer** focused on building robust solutions and securing di
 ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=flat&logo=opencv&logoColor=white)
 ![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=flat&logo=mediapipe&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-1C7DFF?style=flat&logo=googlegemini&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat&logo=claude&logoColor=white)
+
+**Automation & Integration**
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-000000?style=flat)
+![MCP](https://img.shields.io/badge/MCP-000000?style=flat)
 
 **Data & Databases**
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
