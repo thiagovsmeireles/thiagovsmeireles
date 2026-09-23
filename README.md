@@ -23,8 +23,10 @@ I'm a **Software Engineer** focused on building robust solutions and securing di
 ![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=flat&logo=mediapipe&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-1C7DFF?style=flat&logo=googlegemini&logoColor=white)
 
-**Data**
+**Data & Databases**
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 
 **Security & OS**
 ![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kali-linux&logoColor=white)
@@ -35,6 +37,7 @@ I'm a **Software Engineer** focused on building robust solutions and securing di
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
 ---
 
